@@ -56,6 +56,4 @@
 <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=t1n6ldm9eeqe3doftqsljzbbo" />
 </div>
-###
-
 <br clear="both">
