@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://github.com/rafucuk/rafucuk/blob/master/rafucuk.png?raw=true"  />
+  <img height="300" src="https://github.com/rafucuk/rafucuk/blob/master/rafucuk.png?raw=true"  />
 </div>
 
 ###
@@ -59,7 +59,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/rafucuk/rafucuk/blob/output/snake.svg" alt="Snake animation" />
 
 ###
