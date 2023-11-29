@@ -39,8 +39,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafucuk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h1 align="left">Spotify </h1>
-<div align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=t1n6ldm9eeqe3doftqsljzbbo" />
-</div>
 <br clear="both">
