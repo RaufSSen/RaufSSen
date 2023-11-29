@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="auto" src="https://github.com/rafucuk/rafucuk/blob/master/rafucuk.png?raw=true"  />
+  <img height="auto" width="auto" src="https://github.com/rafucuk/rafucuk/blob/master/rafucuk.png?raw=true"  />
 </div>
 
 ###
